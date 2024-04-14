@@ -17,6 +17,10 @@ const userSchema = new mongoose.Schema(
       type: String,
       required: true,
     },
+    profilePicture:{
+      type:String,
+      default:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwaC2JFGV1ztlUeZeuElwPBFz2lJHjuxAn-w&usqp=CAU"
+    },
   },
   { timestamps: true }
 );
