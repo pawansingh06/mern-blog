@@ -1,5 +1,5 @@
 **Blog website**
-webiste- https://mern-blog-g7cp.onrender.com/
+webiste- https://mern-blog-5g2q.onrender.com
 
 It a blogging website where a user can create post link comments edit those blogs, User can select various categories and baased on intrest he can search  other people works as well, admin has all the access to of the blog.
 
